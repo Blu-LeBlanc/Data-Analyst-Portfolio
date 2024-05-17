@@ -6,7 +6,7 @@ During my studies, I gained familiarity with proper experimentation, spreadsheet
 
 In my free time, I am looking for more ways to learn and gradually creating this portfolio to showcase my skills! After graduation, I took the Foundations of Data Analytics Coursera course to focus in on what I want to do after college. Now I am back to taking classes for the University of CU Boulder, while I polish up this portfolio.
 
-My current resume in [pdf](https://github.com/Blu-LeBlanc/Data-Analyst-Portfolio/blob/main/Resume_Blu.pdf).
+My current resume: [pdf](https://github.com/Blu-LeBlanc/Data-Analyst-Portfolio/blob/main/Resume_Blu.pdf).
 
 ## Table of Contents
 
